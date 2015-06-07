@@ -1,5 +1,5 @@
 """
-Algorithmic thinking - Project 1 - Ali Baheri
+Algorithmic thinking - Project 1 - Ali Baheri - May 2015
 """
 EX_GRAPH0 = {0: set([1, 2]), 1: set([]), 2: set([])}
 EX_GRAPH1 = {0: set([1, 4, 5]), 1: set([2, 6]), 2: set([3]), 3: set([0]), 4: set([1]),
